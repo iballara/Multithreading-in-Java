@@ -1,4 +1,4 @@
-package video6.demo1;
+package countdown_latches.demo1;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;

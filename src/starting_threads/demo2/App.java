@@ -1,4 +1,4 @@
-package video1.demo2;
+package starting_threads.demo2;
 
 class Runner implements Runnable {
 

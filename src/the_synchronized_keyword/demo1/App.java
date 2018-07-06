@@ -1,4 +1,4 @@
-package video3.demo1;
+package the_synchronized_keyword.demo1;
 
 public class App {
 

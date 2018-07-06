@@ -1,4 +1,4 @@
-package video4.demo1;
+package multiple_locks.demo1;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package video8.demo1;
+package wait_and_notify.demo1;
 
 public class App {
 

@@ -1,4 +1,4 @@
-package video1.demo1;
+package starting_threads.demo1;
 
 class Runner extends Thread {
 

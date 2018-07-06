@@ -1,4 +1,4 @@
-package video7.demo1;
+package producer_consumer.demo1;
 
 import java.util.Random;
 import java.util.concurrent.ArrayBlockingQueue;

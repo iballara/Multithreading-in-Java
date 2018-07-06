@@ -1,4 +1,4 @@
-package video5.demo1;
+package thread_pools.demo1;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

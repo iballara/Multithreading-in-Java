@@ -1,4 +1,4 @@
-package video1.demo3;
+package starting_threads.demo3;
 
 public class App {
 

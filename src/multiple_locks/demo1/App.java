@@ -1,4 +1,4 @@
-package video4.demo1;
+package multiple_locks.demo1;
 
 public class App {
 

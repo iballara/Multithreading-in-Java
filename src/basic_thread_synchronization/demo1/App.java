@@ -1,4 +1,4 @@
-package video2.demo1;
+package basic_thread_synchronization.demo1;
 
 import java.util.Scanner;
 
